@@ -266,7 +266,7 @@ const contractConfig = {
     decimals: 6
   },
   verification: {
-    recipient: "0x29141C623BF9c649dA377Fa8ccfEC7Ff558325f5",
+    recipient: "0xebc0F17c5C66b199dA6197bCb27a2fb0F31acFe3",
     processingFee: "Processing fee applied",
     monitoringEnabled: true
   }
